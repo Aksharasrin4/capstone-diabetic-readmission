@@ -84,6 +84,17 @@ rate of all groups at **10.3%** — higher than patients whose insulin was incre
 ---
 
 ## Repository Structure
+capstone-diabetic-readmission/
+├── capstone_diabetes.ipynb ← Full analysis notebook (all 6 phases)
+├── outputs/
+│ ├── model_results.json ← AUC scores for all 4 models
+│ ├── rf_importance.csv ← Random Forest variable importance
+│ ├── xgb_importance.csv ← XGBoost variable importance
+│ ├── rec1_time_in_hospital.csv
+│ ├── rec2_a1c_analysis.csv
+│ ├── rec3_insulin_analysis.csv
+│ └── rec4_medications.csv
+└── README.md
 ---
 
 ## Tools & Technologies
