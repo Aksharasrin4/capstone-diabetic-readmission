@@ -1,0 +1,6 @@
+{
+  "Logistic Regression": 0.6174790680088319,
+  "Decision Tree": 0.633221520819817,
+  "Random Forest": 0.6480077577865881,
+  "XGBoost": 0.6587683192819457
+}
